@@ -1,4 +1,4 @@
-# brol
+# Automatic Ubuntu Build for MiniSCT
 
 [![CI](https://github.com/Semi-ATE/MiniSCT-Linux/actions/workflows/CI.yaml/badge.svg)](https://github.com/Semi-ATE/MiniSCT-Linux/actions/workflows/CI.yaml)
 [![CD](https://github.com/Semi-ATE/MiniSCT-Linux/actions/workflows/CD.yaml/badge.svg)](https://github.com/Semi-ATE/MiniSCT-Linux/actions/workflows/CD.yaml)
