@@ -1,4 +1,4 @@
-# Automatic Ubuntu Build for MiniSCT
+# Automatic Build Repository for MiniSCT-Linux
 
 [![CI](https://github.com/Semi-ATE/MiniSCT-Linux/actions/workflows/CI.yaml/badge.svg)](https://github.com/Semi-ATE/MiniSCT-Linux/actions/workflows/CI.yaml)
 [![CD](https://github.com/Semi-ATE/MiniSCT-Linux/actions/workflows/CD.yaml/badge.svg)](https://github.com/Semi-ATE/MiniSCT-Linux/actions/workflows/CD.yaml)
